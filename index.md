@@ -22,3 +22,7 @@ Article a = new Article(name, price)
 ```C
 printf("Prova");
 ```
+
+#### CheckList Sintax
+- [ ] Prima cosa da fare
+- [x] Cosa gia' fatta
